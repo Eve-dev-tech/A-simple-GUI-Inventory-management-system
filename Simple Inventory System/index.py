@@ -3,6 +3,9 @@ from tkinter import * #GUI  toolkit
 import tkinter.messagebox as tkMessageBox #creates message boxes 
 import sqlite3 #used for data storage in this application
 import tkinter.ttk as ttk #for widgets
+
+
+
 root = Tk() #This line creates the main application window, referred to as root.
 root.title("Stock Inventory Management System") #sets title window
 
